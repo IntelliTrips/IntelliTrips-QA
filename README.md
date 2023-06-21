@@ -1,0 +1,1 @@
+# IntelliTrips-QA
